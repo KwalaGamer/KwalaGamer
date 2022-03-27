@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I play games**
 
-- You Can Make My Day By Donating Some Money To Me Via
+- 💸 You Can Make My Day By Donating Some Money To Me Via
 **[Paypal](https://paypal.me/kwalaXD?country.x=IN&locale.x=en_GB)**
 
 <p align="center">
