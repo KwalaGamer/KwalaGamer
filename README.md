@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[QBCore CSS Edit](https://github.com/qbcore-framework)**
+- 🔭 I’m currently working on **[QBCore](https://github.com/qbcore-framework)**  CSS Edit
 
 - 👨‍💻 All of my Public projects are available at **[Github](https://github.com/KwalaGamer?tab=repositories)**
 
-- 📫 How to reach me Via Discord **Kwala Gamer#1516**
+- 📫 How to reach me Via Discord **Kwala Gamer#9191**
 
 - ⚡ Fun fact **I play games**
 
