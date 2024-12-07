@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kwala</h1>
 <h3 align="center">Looking for a fivem developer for you work?.</h3>
-<h3 align="center">Looking for a fivem developer for you work?.</h3>
+<h3 align="center">No problem contact me on discord and get the best for you money</h3>
 
 
 ## 🙋‍♂️ About Me
