@@ -5,25 +5,6 @@
 <h3 align="center">No problem contact me on discord and get the best for you money</h3>
 
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[QBCore](https://github.com/qbcore-framework)**  CSS Edit
-
-- 👨‍💻 All of my Public projects are available at **[Github](https://github.com/KwalaGamer?tab=repositories)**
-
-- 📫 How to reach me Via Discord **Kwala Gamer#9191**
-
-- ⚡ Fun fact **I play games**
-
-- 💸 You Can Make My Day By Giving Some Money To Me Via
-**[Paypal](https://paypal.me/kwalaXD?country.x=IN&locale.x=en_GB)**
-
-<p align="center">
-    <a href="https://github.com/KwalaGamer/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KwalaGamer's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KwalaGamer&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ## 📊 My Github Stats
 
   <br/>
